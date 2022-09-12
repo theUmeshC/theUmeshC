@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theumeshc&label=Profile%20views&color=0e75b6&style=flat" alt="theumeshc" /> </p>
 
+<p align="left">
 - 🔭 I’m currently working on **MovieApp**
 
 - 🌱 I’m currently learning **Express js**
@@ -14,7 +15,7 @@
 
 - 📫 How to reach me **UCCUMESH9@GMAIL.COM**
 
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
