@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theumeshc&label=Profile%20views&color=0e75b6&style=flat" alt="theumeshc" /> </p>
 
 <p align="left">
-- 🔭 I’m currently working on **MovieApp**
+- 🔭 I’m currently working on **Shopify**
 
 - 🌱 I’m currently learning **Express js**
 
@@ -24,8 +24,5 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=theUmeshC&theme=xcode" alt="Umesh's (codeUmesh) GitHub activity graph"/>
 <hr />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theumeshc&show_icons=true&locale=en&layout=compact" alt="theumeshc" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theumeshc&show_icons=true&locale=en" alt="theumeshc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theumeshc&" alt="theumeshc" /></p>
