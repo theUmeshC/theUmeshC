@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Umesh C</h1>
 <h3 align="center">A passionate MERN-STACK DEVELOPER from India.</h3>
-<img align='right' alt='coading' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
+<img align='right' alt='coading' width='350' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
 <p align="left">
 -  Ask me about **HTML, CSS, JAVASCRIPT, MERN**
@@ -10,8 +10,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<hr />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theumeshc&show_icons=true&locale=en" alt="theumeshc" /></p>
-<hr />
 <img src="https://camo.githubusercontent.com/41ac00449fe9a9a3286dfdf7b2167575bf8adba16566727ba5ce50b9f469d718/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f636f6f6c646f67652e676966" alt="Umesh's (codeUmesh) GitHub activity graph"/>
 
