@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Umesh C</h1>
-<h3 align="center">A passionate DEVELOPER from India.</h3>
+<h3 align="center">A passionate Javascript Developer from India.</h3>
 <div align='center'> 
 <img  alt='coading' width='60%' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
