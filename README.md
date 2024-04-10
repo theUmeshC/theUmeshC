@@ -1,8 +1,6 @@
 <h1 align="left">Hi, I'm Umesh C</h1>
 <h3 align="left">A passionate Javascript Developer from India.</h3>
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
