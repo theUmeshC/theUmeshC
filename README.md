@@ -30,7 +30,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
-### My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theUmeshC&theme=tokyonight)](https://git.io/streak-stats)
